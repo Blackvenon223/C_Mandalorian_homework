@@ -7,7 +7,7 @@ namespace EasyHomework
     class Task2
 
     {
-        static void Ma3in(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Введите 1 число");
             var RawFirstNumber = Console.ReadLine();
