@@ -6,7 +6,7 @@ namespace EasyHomework
 {
     class Task3
     {
-        public static void Ma2in(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Введите символ");
              var rawch = Console.ReadLine();

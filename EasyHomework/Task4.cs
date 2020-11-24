@@ -25,7 +25,7 @@ namespace EasyHomework
                     Console.WriteLine($"1 корень {x1}    2 корень {x2}  ");
                 }
                 if (D < 0) { 
-                Console.WriteLine("кореней нет");
+                Console.WriteLine("корней нет");
 
                 }
                 if (D == 0)

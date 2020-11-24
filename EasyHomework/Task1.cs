@@ -7,7 +7,7 @@ namespace EasyHomework
 {
     class Task1
     {
-        static void Mai4n(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Введите Имя");
             var username =  Console.ReadLine();
